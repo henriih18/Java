@@ -1,0 +1,29 @@
+2024-07-10T11:15:49.304-05:00  INFO 12720 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Starting PetShopApiApplicationTests using Java 22.0.1 with PID 12720 (started by H3NRII in C:\Users\H3NRII\Desktop\senaProject\Java\4to Trimestre\petShopAPI)
+2024-07-10T11:15:49.306-05:00  INFO 12720 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-07-10T11:15:50.988-05:00  INFO 12720 --- [petShopAPI] [Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-07-10T11:15:51.053-05:00  INFO 12720 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Started PetShopApiApplicationTests in 2.135 seconds (process running for 3.398)
+2024-07-10T11:16:30.941-05:00  INFO 17520 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Starting PetShopApiApplicationTests using Java 22.0.1 with PID 17520 (started by H3NRII in C:\Users\H3NRII\Desktop\senaProject\Java\4to Trimestre\petShopAPI)
+2024-07-10T11:16:30.944-05:00  INFO 17520 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-07-10T11:16:32.556-05:00  INFO 17520 --- [petShopAPI] [Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-07-10T11:16:32.611-05:00  INFO 17520 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Started PetShopApiApplicationTests in 2.043 seconds (process running for 3.146)
+2024-07-10T11:19:49.847-05:00  INFO 3716 --- [petShopAPI] [main] com.petShop.PetShopApiApplication        : Starting PetShopApiApplication using Java 22.0.1 with PID 3716 (C:\Users\H3NRII\Desktop\senaProject\Java\4to Trimestre\petShopAPI\build\classes\java\main started by H3NRII in C:\Users\H3NRII\Desktop\senaProject\Java\4to Trimestre\petShopAPI)
+2024-07-10T11:19:49.849-05:00  INFO 3716 --- [petShopAPI] [main] com.petShop.PetShopApiApplication        : No active profile set, falling back to 1 default profile: "default"
+2024-07-10T11:19:50.747-05:00  INFO 3716 --- [petShopAPI] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-07-10T11:19:50.756-05:00  INFO 3716 --- [petShopAPI] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-07-10T11:19:50.757-05:00  INFO 3716 --- [petShopAPI] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-10T11:19:50.800-05:00  INFO 3716 --- [petShopAPI] [main] o.a.c.c.C.[Tomcat].[localhost].[/miapp]  : Initializing Spring embedded WebApplicationContext
+2024-07-10T11:19:50.800-05:00  INFO 3716 --- [petShopAPI] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 920 ms
+2024-07-10T11:19:51.269-05:00  INFO 3716 --- [petShopAPI] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-07-10T11:19:51.315-05:00  INFO 3716 --- [petShopAPI] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/miapp'
+2024-07-10T11:19:51.325-05:00  INFO 3716 --- [petShopAPI] [main] com.petShop.PetShopApiApplication        : Started PetShopApiApplication in 1.808 seconds (process running for 2.726)
+2024-07-10T11:19:51.766-05:00  INFO 3716 --- [petShopAPI] [RMI TCP Connection(3)-192.168.0.6] o.a.c.c.C.[Tomcat].[localhost].[/miapp]  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-10T11:19:51.766-05:00  INFO 3716 --- [petShopAPI] [RMI TCP Connection(3)-192.168.0.6] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-07-10T11:19:51.768-05:00  INFO 3716 --- [petShopAPI] [RMI TCP Connection(3)-192.168.0.6] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-07-10T11:19:59.590-05:00  INFO 16648 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Starting PetShopApiApplicationTests using Java 22.0.1 with PID 16648 (started by H3NRII in C:\Users\H3NRII\Desktop\senaProject\Java\4to Trimestre\petShopAPI)
+2024-07-10T11:19:59.592-05:00  INFO 16648 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-07-10T11:20:01.083-05:00  INFO 16648 --- [petShopAPI] [Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-07-10T11:20:01.151-05:00  INFO 16648 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Started PetShopApiApplicationTests in 1.875 seconds (process running for 2.906)
+2024-07-10T11:29:12.309-05:00  INFO 1260 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Starting PetShopApiApplicationTests using Java 22.0.1 with PID 1260 (started by H3NRII in C:\Users\H3NRII\Desktop\senaProject\Java\4to Trimestre\petShopAPI)
+2024-07-10T11:29:12.311-05:00  INFO 1260 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-07-10T11:29:13.850-05:00  INFO 1260 --- [petShopAPI] [Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-07-10T11:29:13.914-05:00  INFO 1260 --- [petShopAPI] [Test worker] com.petShop.PetShopApiApplicationTests   : Started PetShopApiApplicationTests in 1.961 seconds (process running for 3.03)
